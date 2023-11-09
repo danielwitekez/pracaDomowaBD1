@@ -1,0 +1,7 @@
+Tematem jest projektowanie bazy danych dla systemu zarządzania policją.
+ Baza danych ma wspierać przechowywanie informacji o funkcjonariuszach, jednostkach, sprawach kryminalnych,
+ dowodach, przestępcach, aresztowaniach, miejscach, patrolach, wykroczeniach,
+ ofiarach, poszukiwanych, nagrodach i interwencjach.
+
+
+
